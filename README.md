@@ -1,4 +1,4 @@
-# Daemun hunter a simple script for those are very lazy
+# Daemon hunter a simple script for those are very lazy
 Daemon hunter is simply a traditional bash script to manage systemd searvices.
 ```
 ./daemon_hunt.sh "$ONE_ARGUMENT"
